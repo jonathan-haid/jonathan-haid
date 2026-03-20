@@ -43,14 +43,12 @@
         float: right;
         border-radius: 0%;
     }
-      
-    @media (max-width: 600px) {
-        .profile-picture {
-            float: none;
-            display: block;
-            margin: 0 auto 20px auto;
+    
+    @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
         }
-    }
         
     img {
         text-align: center;

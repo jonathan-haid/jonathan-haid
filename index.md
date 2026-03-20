@@ -16,7 +16,8 @@ Particular interests include media-based techniques and practices of knowledge p
 
 I'm a PhD candidate in the [DFG project "Raw Materials of the Humanities"](https://rohstoffe-der-geisteswissenschaften.de/en/home-english/) at the Humboldt-Universität zu Berlin and Doctoral student of the [International Max Planck Research School “Knowledge and Its Resources”](https://imprs.mpiwg-berlin.mpg.de) at the Max Planck Institute for the History of Science.
 
-## Dissertation Project: Nitrocellulose: A Material and Media History of the Humanities
+## Dissertation Project
+**Nitrocellulose: A Material and Media History of the Humanities**
 
 My PhD project investigates nitrocellulose and its significance for the history of the humanities in the 19th and 20th centuries. I focus on the material resources collodion and celluloid, both products of nitrocellulose, which played pivotal roles in shaping media technologies including photographic processes and cinematography. Through case studies, the project addresses working practices and knowledge techniques in the humanities, such as the application of the collodion wet plate process in archaeological photography or the production of educational films in the field of cultural history.
 

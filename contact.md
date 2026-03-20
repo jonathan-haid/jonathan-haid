@@ -21,10 +21,10 @@ is_contact: true
 ---
 
 ## Social
-<img src="/assets/icons/mastodon-logo.svg" alt="Mastodon" width="20">
+<img src="/assets/icons/mastodon-logo.svg" alt="Mastodon" style="width:20px; height:20px; vertical-align:middle;">
 [@yehonathan@tech.lgbt](https://tech.lgbt/@yehonathan)
 
-<img src="/assets/icons/bluesky-logo.svg" alt="Bluesky" width="20">
+<img src="/assets/icons/bluesky-logo.svg" alt="Bluesky" style="width:20px; height:20px; vertical-align:middle;">
 [@yehonathan.bsky.social](https://bsky.app/profile/yehonathan.bsky.social)
 
 

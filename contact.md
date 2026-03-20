@@ -11,12 +11,12 @@ is_contact: true
 
 ## Mailing Address
 
-> Humboldt-Universität zu Berlin  
-> Department of Cultural History, Cultural Theory, and Media Studies  
-> (Institute building: Georgenstraße 47)  
-> Unter den Linden 6  
-> 10099 Berlin  
-> Germany
+Humboldt-Universität zu Berlin  
+Department of Cultural History, Cultural Theory, and Media Studies  
+(Institute building: Georgenstraße 47)  
+Unter den Linden 6  
+10099 Berlin  
+Germany
 
 ---
 

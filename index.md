@@ -1,45 +1,25 @@
 ---
 layout: default
+title: About
 ---
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi!
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm a doctoral researcher working at the intersection of the history of science and media studies. My research focuses on the history of the humanities and cultural studies, drawing on media theory, historical epistemology, and science and technology studies.
 
-## Research Interest
+Particular interests include media-based techniques and practices of knowledge production, as well as questions of extractivism, material provenance, and the global infrastructures of resource regimes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+I'm a PhD candidate in the [DFG project "Raw Materials of the Humanities"](https://rohstoffe-der-geisteswissenschaften.de/en/home-english/) at the Humboldt-Universität zu Berlin and Doctoral student of the [International Max Planck Research School “Knowledge and Its Resources”](https://imprs.mpiwg-berlin.mpg.de) at the Max Planck Institute for the History of Science.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Dissertation Project: Nitrocellulose: A Material and Media History of the Humanities
 
-## Typography
+My PhD project investigates nitrocellulose and its significance for the history of the humanities in the 19th and 20th centuries. I focus on the material resources collodion and celluloid, both products of nitrocellulose, which played pivotal roles in shaping media technologies including photographic processes and cinematography. Through case studies, the project addresses working practices and knowledge techniques in the humanities, such as the application of the collodion wet plate process in archaeological photography or the production of educational films in the field of cultural history.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Of interest are, first, the working practices of humanities scholars as they engaged with these materials, revealing how the material properties of collodion and celluloid were inscribed into the production, transfer, and storage of knowledge within the humanities. My second focus is on the raw materials of nitrocellulose-based media technologies themselves—cotton, saltpeter, camphor.
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+The project examines the extraction, transportation, and processing of raw materials, tracing the ecological, economic, political, and industrial contexts through which they were transformed into media of knowledge. By situating the media practices of the humanities and the emergence of humanities disciplines within the broader material history of nitrocellulose, the project highlights how these processes were embedded in global networks shaped by ecological, economic, and colonial power structures. These intricate networks are themselves resources that, I argue, have been of great importance to the epistemes of the humanities.

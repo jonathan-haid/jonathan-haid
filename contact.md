@@ -3,24 +3,31 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [jonathan.haid@hu-berlin.de](mailto:jonathan.haid@hu-berlin.de)
 
-* Phone: [+91-123123](tel:+91-123123)
+
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> Humboldt-Universität zu Berlin  
+> Department of Cultural History, Cultural Theory, and Media Studies  
+> (Institute building: Georgenstraße 47)  
+> Unter den Linden 6  
+> 10099 Berlin  
+> Germany
 
 ---
 
 ## Social
+<img src="/assets/icons/mastodon-logo.svg" alt="Mastodon" width="20">
+[@yehonathan@tech.lgbt](https://tech.lgbt/@yehonathan)
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<img src="/assets/icons/bluesky-logo.svg" alt="Bluesky" width="20">
+[@yehonathan.bsky.social](https://bsky.app/profile/yehonathan.bsky.social)
+
+
+
+
+

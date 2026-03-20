@@ -1,3 +1,7 @@
+This site uses the "Researcher" Jekyll template by Ankit Sultana, licensed under the GNU General Public License v3.0.
+
+Original template: https://github.com/ankitsultana/researcher
+
 # Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)

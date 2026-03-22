@@ -3,9 +3,11 @@ layout: default
 title: About
 ---
 
-## About Me
+
 
 <img class="profile-picture" src="profile.jpg">
+
+## About Me
 
 Hi!
 

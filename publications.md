@@ -5,6 +5,10 @@ title: Publications
 
 ## Publications
 
+- Haid, Jonathan. "Extracting Celluloid: Anthropological Photography and Camphor Forests in Taiwan." *History of Humanities* 12, no. 2 (2027). Theme, "Materials of the Humanities: Extraction, Assembly, Recuperation," edited by Jonathan Haid, Lotte Schüßler, and Viktoria Tkaczyk. *(under review)*
+
+- Haid, Jonathan, Lotte Schüßler, and Viktoria Tkaczyk. "Introduction: Material Histories of the Humanities." *History of Humanities* 12, no. 2 (2027). Theme, "Materials of the Humanities: Extraction, Assembly, Recuperation," edited by Jonathan Haid, Lotte Schüßler, and Viktoria Tkaczyk. *(under review)*
+
 - Haid, Jonathan. "Review of *Perspektiven auf Stoffgeschichte: Materialität, Praktiken, Wissen*, ed. by Sebastian Haumann, Eva-Maria Roelevink, Nora Thorade, and Christian Zumbrägel. Bielefeld: 2023." *Ambix* (2026), 1--2. [doi:10.1080/00026980.2026.2641373](https://doi.org/10.1080/00026980.2026.2641373)  
 
 - Zeng, Lejie, Jonathan Haid, and Omri Polatsek. *From Natural to Synthetic? Rethinking Narratives of Chemical "Replacement" in the Nineteenth and Twentieth Centuries.* Max-Planck-Institut für Wissenschaftsgeschichte. Berlin: 2025. [Link](https://www.mpiwg-berlin.mpg.de/feature-story/natural-synthetic-rethinking-narratives-chemical-replacement-nineteenth-and-twentieth)

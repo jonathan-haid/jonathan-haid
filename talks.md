@@ -6,6 +6,9 @@ title: Talks
 ## Talks
 
 ### Invited Talks
+#### 09/2026
+- "Resourcing: Film's Raw Materials and the Knowledge of the Humanities," invited presentation at *Photochemical Film: Materials, Industries, Histories*, An International Workshop at Národní filmový archiv, Prague.
+
 #### 02/2026
 - "Rohstoffe des Films: Mediengeschichte als materielle Provenienzforschung," lecture in the series "Handhabungen der Filmwissenschaft," Department of Theater Studies, Freie Universität Berlin  
  

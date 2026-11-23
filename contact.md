@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jonathan.haid@hu-berlin.de](mailto:jonathan.haid@hu-berlin.de)
+* Email: [mail@jonathan-haid.de](mailto:mail@jonathan-haid.de)
 
 
 
